@@ -37,14 +37,14 @@ Setelah dilakukan hyperparameter tuning, model **Gradient Boosting Regressor (GB
 - Python 3.11
 - Scikit-learn
 - Pandas, NumPy, Matplotlib, Seaborn
-- LinearRegression, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGBoost, LightGBM
+- XGBoost, LightGBM
 - Google Colab
 
 ## Struktur File
-├── USAHousePrice.ipynb # Notebook utama
-├── README.md # Dokumentasi proyek
-├── requirements.txt # Kebutuhan dependensi
-└── best_model.datsci # Model hasil pelatihan terbaik
+- USAHousePrice.ipynb # Notebook utama
+- README.md # Dokumentasi proyek
+- requirements.txt # Kebutuhan dependensi
+- best_model.datsci # Model hasil pelatihan terbaik
 
 
 ## Catatan Tambahan
